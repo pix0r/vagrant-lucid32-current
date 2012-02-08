@@ -1,0 +1,5 @@
+Creates a new lucid32 box, applies system updates (requires user interaction),
+and packages the box for distribution.
+
+Usage: build-lucid32-current.sh [output.box]
+
